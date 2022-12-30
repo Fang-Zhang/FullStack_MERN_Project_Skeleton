@@ -1,8 +1,8 @@
 {
-  "name": "mern-skeleton",
-  "version": "2.0.0",
+  "name": "MERN-Skeleton",
+  "version": "0.1.0",
   "description": "A MERN stack skeleton web application",
-  "author": "Shama Hoque",
+  "author": "Walter Zhang",
   "license": "MIT",
   "keywords": [
     "react",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-skeleton.git"
+    "url": "https://github.com/Fang-Zhang/FullStack_MERN_Project_Skeleton.git"
   },
-  "homepage": "https://github.com/shamahoque/mern-skeleton",
+  "homepage": "https://github.com/Fang-Zhang/FullStack_MERN_Project_Skeleton",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
