@@ -11,10 +11,7 @@
     "node",
     "mern"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Fang-Zhang/FullStack_MERN_Project_Skeleton.git"
-  },
+  "repository": "https://github.com/Fang-Zhang/FullStack_MERN_Project_Skeleton.git",
   "homepage": "https://github.com/Fang-Zhang/FullStack_MERN_Project_Skeleton",
   "main": "./dist/server.generated.js",
   "scripts": {
